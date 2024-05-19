@@ -84,15 +84,6 @@ I'm enthusiastic about connecting with like-minded professionals, discussing inn
 <hr />
 
 <!------------------------------------- githuib status part -------------------------------->
-
-
-
-
- <div align="left">
- <h3>ℹ️ &nbsp;Github Info</h3>
- <hr/>
-
-     <br/>
    <p align="center">
     <a href="https://github.com/ganeshphulmante2003/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="ganeshphulmante2003's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshphulmante2003&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
