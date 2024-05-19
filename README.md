@@ -27,9 +27,6 @@ I'm is a dynamic  B.E (Information Technology) student at Pune University, skill
 I'm enthusiastic about connecting with like-minded professionals, discussing innovative tech ideas, and exploring new opportunities in the ever-evolving realm of Devops Domain.</p>
 <br>
 
-<img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" />
-
-
 - 🔭 I’m currently working on *Devops & Devlopment Projects*
 
 - 💬 Ask me about *Devops & Devlopment*
@@ -89,20 +86,7 @@ I'm enthusiastic about connecting with like-minded professionals, discussing inn
 <!------------------------------------- githuib status part -------------------------------->
 
 
-<h3 align="left> 📊 My Github Stats</h3>
-<br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=priyankaphulmante98&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshphulmante2003" />
-<a href="https://github.com/ganeshphulmante2003?tab=followers"><img src="https://img.shields.io/github/followers/ganeshphulmante2003?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
-  <br/>
-  
 
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshphulmante2003&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="ganeshphulmante2003" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshphulmante2003&layout=compact&border_radius=0" alt="ganeshphulmante2003" height="139" />
-</p>
-
-<br/>
 
  <div align="left">
  <h3>ℹ️ &nbsp;Github Info</h3>
